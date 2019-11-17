@@ -1,5 +1,14 @@
 # @neverusethis/plugin-second
 
+## 1.5.0
+
+### Minor Changes
+
+- 9f66a12: alskdfjaskd alkdfj asdlfksdf asldkfajsdf
+- c9cf73a: Some description about the changes here
+- a36390a: kadjsflkas akdfjasd klasjdflkasdf
+- 1e0e944: We're not calling version this time
+
 ## 1.4.0
 
 ### Minor Changes

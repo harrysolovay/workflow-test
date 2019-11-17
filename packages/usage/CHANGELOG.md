@@ -1,5 +1,16 @@
 # @neverusethis/usage
 
+## 1.4.0
+
+### Minor Changes
+
+- 1e0e944: We're not calling version this time
+
+### Patch Changes
+
+- Updated dependencies [1e0e944]
+  - @neverusethis/core@6.4.0
+
 ## 1.3.0
 
 ### Minor Changes

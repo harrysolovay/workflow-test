@@ -1,5 +1,20 @@
 # @neverusethis/core
 
+## 6.4.0
+
+### Minor Changes
+
+- 1e0e944: We're not calling version this time
+
+### Patch Changes
+
+- Updated dependencies [9f66a12]
+- Updated dependencies [c9cf73a]
+- Updated dependencies [a36390a]
+- Updated dependencies [1e0e944]
+  - @neverusethis/plugin-first@1.5.0
+  - @neverusethis/plugin-second@1.5.0
+
 ## 6.3.0
 
 ### Minor Changes
