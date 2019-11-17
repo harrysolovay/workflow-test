@@ -1,0 +1,13 @@
+{
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/core",
+    "packages/plugins/*",
+    "packages/usage",
+    "packages/utils"
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.4.0"
+  }
+}
