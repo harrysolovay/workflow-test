@@ -1,5 +1,12 @@
 # @neverusethis/core
 
+## 6.5.1
+
+### Patch Changes
+
+- Updated dependencies [7503785]
+  - @neverusethis/plugin-first@1.7.0
+
 ## 6.5.0
 
 ### Minor Changes
