@@ -1,5 +1,17 @@
 # @neverusethis/plugin-second
 
+## 1.6.0
+
+### Minor Changes
+
+- 57ffe39: some set of changes yo
+- 091f7bd: SOme updates for plugins
+- 34ba4e0: some description here ... yo
+
+### Patch Changes
+
+- 6b4d864: Some update description
+
 ## 1.5.0
 
 ### Minor Changes

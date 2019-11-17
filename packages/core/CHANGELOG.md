@@ -1,5 +1,23 @@
 # @neverusethis/core
 
+## 6.5.0
+
+### Minor Changes
+
+- 57ffe39: some set of changes yo
+- 34ba4e0: some description here ... yo
+
+### Patch Changes
+
+- 6b4d864: Some update description
+- Updated dependencies [57ffe39]
+- Updated dependencies [091f7bd]
+- Updated dependencies [6b4d864]
+- Updated dependencies [34ba4e0]
+  - @neverusethis/plugin-first@1.6.0
+  - @neverusethis/plugin-second@1.6.0
+  - @neverusethis/utils@1.1.1
+
 ## 6.4.0
 
 ### Minor Changes
