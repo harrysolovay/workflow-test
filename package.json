@@ -9,5 +9,8 @@
   ],
   "devDependencies": {
     "@changesets/cli": "^2.4.0"
+  },
+  "scripts": {
+    "release": "yarn changeset publish --follow-tags"
   }
 }
