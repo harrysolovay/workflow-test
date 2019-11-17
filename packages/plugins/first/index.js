@@ -1,1 +1,1 @@
-module.exports = 'first plugin'
+module.exports = 'first plugin a'
