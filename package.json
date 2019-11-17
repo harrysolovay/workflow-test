@@ -4,7 +4,6 @@
   "workspaces": [
     "packages/core",
     "packages/plugins/*",
-    "packages/usage",
     "packages/utils"
   ],
   "devDependencies": {

@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@neverusethis/plugin-first": "1.6.0",
     "@neverusethis/plugin-second": "1.6.0",
