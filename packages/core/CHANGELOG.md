@@ -1,5 +1,19 @@
 # @neverusethis/core
 
+## 6.6.0
+
+### Minor Changes
+
+- c41a276: lkasjdf askdfj asdlkfj asdf, asdkfj askdfksd asdkf
+
+### Patch Changes
+
+- Updated dependencies [c41a276]
+- Updated dependencies [c41a276]
+  - @neverusethis/plugin-first@1.7.0
+  - @neverusethis/plugin-second@1.7.0
+  - @neverusethis/utils@1.2.0
+
 ## 6.5.0
 
 ### Minor Changes

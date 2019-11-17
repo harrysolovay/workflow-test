@@ -1,5 +1,16 @@
 # @neverusethis/usage
 
+## 1.6.0
+
+### Minor Changes
+
+- c41a276: lkasjdf askdfj asdlkfj asdf, asdkfj askdfksd asdkf
+
+### Patch Changes
+
+- Updated dependencies [c41a276]
+  - @neverusethis/core@6.6.0
+
 ## 1.5.0
 
 ### Minor Changes

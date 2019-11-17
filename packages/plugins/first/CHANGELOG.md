@@ -1,5 +1,12 @@
 # @neverusethis/plugin-first
 
+## 1.7.0
+
+### Minor Changes
+
+- c41a276: Some description of the changes
+- c41a276: lkasjdf askdfj asdlkfj asdf, asdkfj askdfksd asdkf
+
 ## 1.6.0
 
 ### Minor Changes

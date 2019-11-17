@@ -1,12 +1,12 @@
 {
   "name": "@neverusethis/core",
-  "version": "6.5.0",
+  "version": "6.6.0",
   "main": "index.js",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@neverusethis/plugin-first": "1.6.0",
-    "@neverusethis/plugin-second": "1.6.0",
-    "@neverusethis/utils": "1.1.1"
+    "@neverusethis/plugin-first": "1.7.0",
+    "@neverusethis/plugin-second": "1.7.0",
+    "@neverusethis/utils": "1.2.0"
   }
 }
