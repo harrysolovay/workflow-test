@@ -1,5 +1,11 @@
 # @neverusethis/plugin-first
 
+## 1.7.0
+
+### Minor Changes
+
+- 7503785: some changes here
+
 ## 1.6.0
 
 ### Minor Changes
